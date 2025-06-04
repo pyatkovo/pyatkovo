@@ -53,5 +53,7 @@
 <!-- - 🌐 Портфолио: в разработке -->
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=pyatkovo&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/pyatkovo?label=Follow&style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pyatkovo&color=blue" alt="Profile views" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/pyatkovo?label=Follow&style=social" alt="GitHub followers" />
+</p>
