@@ -41,7 +41,6 @@
 ### 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyatkovo&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatkovo&layout=compact&theme=tokyonight" height="150" />
 </p>
 
@@ -49,8 +48,8 @@
 
 ### 📬 Контакты
 
-- 📧 Email: pyatkovo@gmail.com  
-- 💼 Telegram (если хочешь): [@твой_ник](https://t.me/твой_ник)  
+- 📧 Email: pyatkov.olezha@gmail.com 
+- 💼 Telegram (если хочешь): [@pyatkovo](https://t.me/pyatkovo)  
 <!-- - 🌐 Портфолио: в разработке -->
 
 ---
