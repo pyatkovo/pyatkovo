@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Олег 👋</h1>
 <p align="center">
-  🧑‍💻 Frontend-разработчик | Angular • TypeScript • HTML • CSS
+  🧑‍💻 Frontend-разработчик | Angular • TypeScript • HTML • CSS • JavaScript
 </p>
 
 ---
@@ -9,16 +9,31 @@
 
 - 🚀 Создаю **SPA-приложения** на **Angular**
 - 🎯 Опыт работы как с **лендингами**, так и с **многостраничными сайтами** со сложной логикой
-- 🔧 Владею: `TypeScript`, `JavaScript`, `HTML`, `CSS`, `RxJS`, `REST API`
-- 🌱 Сейчас углубляюсь в `NgRx` и `чистую архитектуру`
+- 🔧 Владею: `TypeScript`, `JavaScript`, `HTML`, `CSS`, `SASS`, `REST API`
 - 🌍 Английский — **B2 (Upper-Intermediate)**
 
 ---
 
-### 🛠️ Стек технологий
+### 🧩 Основные технологии (Tech stack)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,rxjs,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,jquery" />
+</p>
+
+---
+
+### 🛠 Инструменты разработки (Tools)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webstorm,vscode,git,github,npm,gulp,webpack" />
+</p>
+
+---
+
+### 🎨 Дизайн и графика
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
