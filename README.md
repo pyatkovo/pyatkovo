@@ -1,31 +1,41 @@
-### Привет! Меня зовут Олег 👋
+<h1 align="center">Привет, я Олег 👋</h1>
+<p align="center">
+  🧑‍💻 Frontend-разработчик | Angular • TypeScript • HTML • CSS
+</p>
 
-Я — frontend-разработчик, специализирующийся на создании SPA-приложений с использованием **Angular**, **TypeScript** и **RxJS**. Работал над лендингами и многостраничными сайтами со сложной внутренней логикой. Уверенно владею HTML, CSS, JavaScript.
+---
 
-- 🔧 Опыт работы с **REST API**, **Reactive Forms**, **FormArray**, кастомными валидаторами
-- 🧩 Стремлюсь писать читаемый и масштабируемый код
-- 📚 Продолжаю развиваться, изучая лучшие практики frontend-разработки
-- 🌍 Уровень английского — **B2 (upper-intermediate)**
+### 🧩 Обо мне
 
-**Ищу команду, где могу расти как специалист и решать интересные задачи.**
+- 🚀 Создаю **SPA-приложения** на **Angular**
+- 🎯 Опыт работы как с **лендингами**, так и с **многостраничными сайтами** со сложной логикой
+- 🔧 Владею: `TypeScript`, `JavaScript`, `HTML`, `CSS`, `RxJS`, `REST API`
+- 🌱 Сейчас углубляюсь в `NgRx` и `чистую архитектуру`
+- 🌍 Английский — **B2 (Upper-Intermediate)**
 
-📫 Связаться со мной: pyatkovo@gmail.com  
-🔗 [LinkedIn (если есть)](https://...)  
+---
 
+### 🛠️ Стек технологий
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,rxjs,git" />
+</p>
 
+---
 
-<!--
-**pyatkovo/pyatkovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Статистика
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyatkovo&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatkovo&layout=compact&theme=tokyonight" height="150" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Контакты
+
+- 📧 Email: pyatkovo@gmail.com  
+- 💼 Telegram (если хочешь): [@твой_ник](https://t.me/твой_ник)  
+<!-- - 🌐 Портфолио: в разработке -->
+
+---
