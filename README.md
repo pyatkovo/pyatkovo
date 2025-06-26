@@ -3,6 +3,10 @@
   🧑‍💻 Frontend-разработчик | Angular • TypeScript • HTML • CSS • JavaScript
 </p>
 
+<p align="center">
+ 💼 Личный сайт – https://pyatkovo.github.io/portfolio/
+</p>
+
 ---
 
 ### 🧩 Обо мне
